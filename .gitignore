@@ -1,0 +1,31 @@
+# Entorno virtual de Python
+.vnv/
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración del entorno
+.env
+*.env
+
+# Archivos de logs
+*.log
+
+# Archivos generados por IDEs
+.vscode/
+.idea/
+
+# Archivos creados por pytest
+.cache/
+
+# Archivos de lock de pip
+Pipfile.lock
+
+# Librerías instaladas por pip
+pip-wheel-metadata/
