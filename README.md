@@ -32,3 +32,9 @@ deactivate
 .\.venv\Scripts\deactivate
 ```
 
+## RUN 🐍🐍
+```python
+python menu.py
+```
+
+
