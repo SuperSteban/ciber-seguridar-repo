@@ -1,7 +1,7 @@
 PASO 1 Crear el entorno virtual
 
 ```sh
-python -m venv .vnv
+python -m venv .venv
 ```
 PASO 2 Activar entorno
 
